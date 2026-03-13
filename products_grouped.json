@@ -1,0 +1,4516 @@
+[
+  {
+    "product": "TSANOS \u03a4\u03a3\u0391\u039d\u0391\u039a\u0399\u0391 \u039c\u039f\u03a5\u03a3\u03a4\u039f\u03a5 12/300G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.46
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.4
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.2
+      },
+      {
+        "supermarket": "marketin",
+        "price": 3.19
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.39
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.52
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u03a0\u03a1\u039f\u039a\u039f\u039b\u039f \u0395\u0399\u03a3\u0391\u0393\u03a9\u0393\u0397\u03a3 (\u03a4\u0399\u039c\u0397 \u039a\u0399\u039b\u039f\u03a5).",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 4.68
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.2
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.18
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.65
+      }
+    ]
+  },
+  {
+    "product": "NUTELLA \u03a0\u03a1\u0391\u039b\u0399\u039d\u0391 \u03a6\u039f\u03a5\u039d\u03a4\u039f\u03a5\u039a\u0399\u039f\u03a5 6/700G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.48
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.48
+      }
+    ]
+  },
+  {
+    "product": "DIROLLO CLASSIC \u03a6\u0395\u03a4\u0395\u03a3 12/350G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.37
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.0
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.01
+      }
+    ]
+  },
+  {
+    "product": "HELLMANN'S REAL \u039c\u0391\u0393\u0399\u039f\u039d\u0395\u0396\u0391 12/450ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.35
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.75
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.5
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.85
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.25
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.89
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.37
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.53
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.2
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.59
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.58
+      }
+    ]
+  },
+  {
+    "product": "TASTY SNACK \u03a6\u039f\u03a5\u039d\u03a4\u039f\u03a5\u039d\u0399\u0391 25/95G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.1
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.1
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.1
+      }
+    ]
+  },
+  {
+    "product": "MIMIKOS \u03a3\u03a4\u0397\u0398\u039f\u03a3 \u03a6\u0399\u039b. \u039a\u039f\u03a4. \u0395\u039b\u039b\u0397\u039d. \u039d\u03a9\u03a0\u039f 650G",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 12.3
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 12.27
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 12.3
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 13.18
+      }
+    ]
+  },
+  {
+    "product": "MILKO \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u039f\u03a5\u03a7\u039f \u0393\u0391\u039b\u0391 \u03a6\u0399\u0391\u039b\u0397 450ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.24
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.66
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.7
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.67
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.66
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.75
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.25
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.66
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.24
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.33
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.28
+      }
+    ]
+  },
+  {
+    "product": "CAMPINGAZ \u0392\u0391\u03a3\u0397 \u0395\u039b \u0393\u039a\u03a1\u0395\u039a\u039f \u03a1\u039f\u0396 450G 12\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.95
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 7.15
+      },
+      {
+        "supermarket": "marketin",
+        "price": 7.19
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.95
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 7.15
+      }
+    ]
+  },
+  {
+    "product": "KLINEX \u03a7\u039b\u03a9\u03a1\u0399\u039d\u0397 ULTRA 12/1250ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.98
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.99
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.98
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.98
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.99
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.98
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.98
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u0392\u0393\u0391\u039b \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 \u0391\u0399\u0393/\u0392\u0395\u0399\u039f \u0395\u039b\u0391\u03a6\u03a1\u03a5 220G",
+    "prices": [
+      {
+        "supermarket": "galaxias",
+        "price": 1.62
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.62
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.65
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.62
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.62
+      }
+    ]
+  },
+  {
+    "product": "\u03a6\u0391\u0393\u0395 \u03a4\u03a1\u0399\u039a\u0391\u039b\u0399\u039d\u039f \u0395\u039b\u0391\u03a6\u03a1\u03a5 KOMMATI 12/380G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 7.55
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 7.4
+      },
+      {
+        "supermarket": "efresh",
+        "price": 7.4
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.85
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 7.38
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 7.4
+      },
+      {
+        "supermarket": "synka",
+        "price": 7.4
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 7.38
+      }
+    ]
+  },
+  {
+    "product": "KLINEX \u03a7\u039b\u03a9\u03a1\u0399\u039d\u0397 ULTRA LEMON 6/2L.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.18
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.19
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.19
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.17
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.18
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.98
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.18
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.97
+      }
+    ]
+  },
+  {
+    "product": "ALPILAND ESPRESSO 250ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.35
+      }
+    ]
+  },
+  {
+    "product": "PESCANOVA \u0393\u0391\u03a1\u0399\u0394\u0395\u03a3 \u0391\u03a0\u039f\u03a6 \u0393\u0399\u0393\u0391\u03a3 \u039a\u03a4\u03a8 15/350G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.82
+      },
+      {
+        "supermarket": "efresh",
+        "price": 7.38
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.94
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 8.68
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 6.51
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 6.98
+      }
+    ]
+  },
+  {
+    "product": "BARILLA SPAG/T\u039fNI \u039d\u039f7 3X500G 1. 20E",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.12
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.12
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.12
+      }
+    ]
+  },
+  {
+    "product": "\u039d\u039f\u03a5\u039d\u039f\u03a5 KID \u03a3\u03a5\u039c\u03a0. \u03a1\u039f\u03a6. \u0393\u0391\u039b\u0391\u039a\u03a4\u039f\u03a3 400G 8/(6T)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 8.2
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 8.2
+      },
+      {
+        "supermarket": "efresh",
+        "price": 6.97
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 8.2
+      },
+      {
+        "supermarket": "lidl",
+        "price": 8.2
+      },
+      {
+        "supermarket": "marketin",
+        "price": 8.22
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 8.2
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 6.58
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 6.58
+      },
+      {
+        "supermarket": "synka",
+        "price": 8.2
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 8.22
+      }
+    ]
+  },
+  {
+    "product": "L'OR \u039a\u0391\u03a8\u039f\u03a5\u039b\u0395\u03a3 BARISTA 20/10\u03a4.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.97
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.46
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.87
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.87
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.67
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.68
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.9
+      }
+    ]
+  },
+  {
+    "product": "\u039f\u039b\u03a5\u039c\u03a0\u039f\u03a3 \u0393\u0399\u0391\u039f\u03a5\u03a1. \u03a3\u03a4\u03a1. 2%\u039b\u0399\u03a0. 6/1KG(-0. 50)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.45
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.45
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.45
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.5
+      }
+    ]
+  },
+  {
+    "product": "MCCAIN \u03a0\u0391\u03a4\u0391\u03a4\u0395\u03a3 MEDITERRANEAN \u039a\u03a4\u03a812/750G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.38
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.6
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.2
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.0
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.76
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.25
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.25
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.76
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.28
+      }
+    ]
+  },
+  {
+    "product": "\u0396\u0391\u0393\u039f\u03a1\u0399 \u03a6\u03a5\u03a3\u0399\u039a\u039f \u039c\u0395\u03a4\u0391\u039b\u039b\u0399\u039a\u039f \u039d\u0395\u03a1\u039f 500ML(12TEM",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.12
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.14
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.04
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.12
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.12
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.14
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.12
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.16
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.12
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.61
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.4
+      }
+    ]
+  },
+  {
+    "product": "\u0391\u039c\u0399\u03a4\u0391 \u03a6\u03a1\u039f\u03a5\u03a4\u039f\u03a0\u039f\u03a4\u039f \u03a0\u039f\u03a1. \u0392. \u039c. 6/1L(2\u03a4-0. 50)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.2
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.2
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.05
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.06
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.2
+      }
+    ]
+  },
+  {
+    "product": "OMINO BIANCO \u0391\u03a6\u03a1\u039f\u03a3 \u039c. \u03a5\u0393\u03a1\u039f 37\u039c. 12/1. 480ML",
+    "prices": [
+      {
+        "supermarket": "bazaar",
+        "price": 4.9
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.5
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.48
+      },
+      {
+        "supermarket": "lidl",
+        "price": 4.05
+      },
+      {
+        "supermarket": "marketin",
+        "price": 4.99
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.49
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.5
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.49
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.49
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.64
+      }
+    ]
+  },
+  {
+    "product": "ALFA \u039a\u0395\u03a6. \u039a\u0391\u03a3\u0395\u03a1/\u039a\u0399\u0391 \u0393\u03a1\u0391\u0392. \u039d\u0391\u039e. \u03a0\u039f\u03a0 \u039a10/800G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.89
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.11
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.48
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 5.49
+      }
+    ]
+  },
+  {
+    "product": "KLINEX \u03a7\u039b\u03a9\u03a1\u0399\u039d\u0397 ULTRA FRESH 15/750ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.96
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.99
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.96
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.96
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.95
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.96
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.96
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.97
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u03a1\u0395\u039c\u039c\u03a5\u0394\u0399\u0391 \u039e\u0395\u03a1\u0391 \u0395\u0399\u03a3 \u03a0\u039f\u0399\u039f\u03a4 \u0391 (\u03a4\u0399\u039c\u0397 \u039a\u0399\u039b. )",
+    "prices": [
+      {
+        "supermarket": "efresh",
+        "price": 1.0933333333333
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.28
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 0.98
+      }
+    ]
+  },
+  {
+    "product": "KELLOGG'S COCO POPS CHOCOS \u0394\u0397\u039c. 18/375G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.58
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.38
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.38
+      }
+    ]
+  },
+  {
+    "product": "COLGATE SLIM SOFT CHARCOAL \u039f\u0394/\u03a4\u03a3\u0391 12\u03a4\u0395\u039c",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.32
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.2
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.1
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.19
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.0
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.21
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.21
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.0
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.99
+      }
+    ]
+  },
+  {
+    "product": "ROLI XPRESS FL. CHER 250ML\u0394 12X1000ML",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 2.3
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u03a0\u0391\u03a1\u039c\u03a0\u0391\u03a3\u03a4\u0391\u0398\u0397\u03a3 \u03a0\u0395\u039d\u0395\u03a3 \u039f\u039b\u0399\u039a\u0397\u03a3 \u039c\u0391\u039d. 12/750G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.46
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.5
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.47
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.51
+      }
+    ]
+  },
+  {
+    "product": "OSCAR \u039a\u0391\u03a1. \u03a3\u0391\u039a\u039f\u03a5\u039b\u0391\u039a\u0399 TOFFEE \u0393\u0391\u039b\u0391\u039a\u03a4\u039f\u03a3 MAGIC CANDY",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 1.02
+      }
+    ]
+  },
+  {
+    "product": "KLINEX \u03a7\u039b\u03a9\u03a1\u0399\u039d\u0397 ULTRA LEMON 15/750ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.96
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.99
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.96
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.99
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.96
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.95
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.96
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.96
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.97
+      }
+    ]
+  },
+  {
+    "product": "ALFA \u039a\u0399\u03a7\u0399 \u039c\u0399\u039d\u0399 \u039c\u0395 \u03a4\u03a5\u03a1\u0399 10/800G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.14
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.79
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.09
+      },
+      {
+        "supermarket": "lidl",
+        "price": 3.79
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.85
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 5.85
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.78
+      },
+      {
+        "supermarket": "synka",
+        "price": 5.85
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 5.9
+      }
+    ]
+  },
+  {
+    "product": "SENSODYNE REPAIR & PROT. WHIT. 12/75ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.71
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.87
+      },
+      {
+        "supermarket": "marketin",
+        "price": 3.49
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.55
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.55
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.55
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.55
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.28
+      }
+    ]
+  },
+  {
+    "product": "\u0391\u039b\u039b\u0391\u03a4\u0399\u039d\u0397 SUP. COOKIE \u0392\u03a1\u03a9\u039c\u0397 \u039a\u03a1\u0391\u039d\u039c\u03a0. 12/180G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.93
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.0
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.08
+      }
+    ]
+  },
+  {
+    "product": "MONSTER ENERGY ZERO ULTRA 24/500ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.17
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.14
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.52
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.14
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.15
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.52
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.52
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.12
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.05
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.06
+      }
+    ]
+  },
+  {
+    "product": "\u0397\u03a0\u0395\u0399\u03a1\u03a9\u03a4\u0399\u039a\u0391 \u0391\u03a5\u0393\u0391 \u039a\u039f\u039a. \u039a\u0391\u039b. \u0395\u039b\u0395\u03a5\u0398. 8/6\u0391\u0394\u0391 63-",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.42
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.42
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.42
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.42
+      }
+    ]
+  },
+  {
+    "product": "OSCAR \u03a3\u039f\u039a\u039f\u039b. \u03a5\u0393\u0395\u0399\u0391\u03a3 \u039c\u0399\u039d\u0399 \u03a3\u0391\u039a. 20/300G",
+    "prices": [
+      {
+        "supermarket": "mymarket",
+        "price": 6.28
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "product": "VILEDA \u03a3\u03a5\u03a3\u03a4\u0397\u039c\u0391 \u039a\u0391\u0398\u0391\u03a1 TURBO SMART SPIN.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 55.65
+      },
+      {
+        "supermarket": "efresh",
+        "price": 56.82
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 31.8
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 53.0
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 24.95
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 24.95
+      },
+      {
+        "supermarket": "synka",
+        "price": 53.99
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 26.99
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0391\u039d\u039d\u0391 \u039a\u03a1\u0399\u0398\u0391\u03a1\u0395\u039d\u0399\u039f \u03a0\u0391\u039e\u0399\u039c. \u039c\u0395 \u03a0\u03a1\u039f\u0396. 300G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.36
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.2
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.22
+      }
+    ]
+  },
+  {
+    "product": "PANTENE \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d \u03a0\u03a1\u039f\u03a3\u03a4. \u03a7\u03a1\u03a9\u039c\u0391\u03a4\u039f\u03a3 6/675ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.99
+      },
+      {
+        "supermarket": "lidl",
+        "price": 4.74
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 7.9
+      }
+    ]
+  },
+  {
+    "product": "\u0391\u03a1\u039a\u0391\u0394\u0399 BABY \u03a5\u0393. \u03a0\u039b. \u03a1\u039f\u03a5\u03a7. \u03a0\u03a1. \u03a3\u0391\u03a0. 26\u039c",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 7.01
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 5.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 6.74
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.73
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.68
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 6.25
+      },
+      {
+        "supermarket": "synka",
+        "price": 6.74
+      }
+    ]
+  },
+  {
+    "product": "NEOMAT \u0391\u03a0\u039f\u03a1. \u03a0\u039b. \u03a1\u039f\u03a5\u03a7. \u039c\u03a0\u039b\u0395 \u03a3\u039a. 40\u039c. 2. 00KG",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.21
+      },
+      {
+        "supermarket": "efresh",
+        "price": 8.49
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 8.48
+      }
+    ]
+  },
+  {
+    "product": "TOTAL \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 \u03a3\u03a4\u03a1\u0391\u0393\u0393\u0399\u03a3\u03a4\u039f 2% \u039b\u0399\u03a0. 6/500G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.98
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.38
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.98
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.98
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.1
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.1
+      }
+    ]
+  },
+  {
+    "product": "\u0391\u039c\u0399\u03a4\u0391 \u03a6\u03a1\u039f\u03a5\u03a4\u039f\u03a0\u039f\u03a4\u039f \u0392\u03a5\u03a3\u03a3\u0399\u039d\u039f 8/1. 5L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.53
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.26
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.28
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.48
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.48
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.48
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.48
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.53
+      }
+    ]
+  },
+  {
+    "product": "MILLHOUSE \u03a4\u03a1\u0391\u0393. \u0392\u03a1\u03a9\u039c\u0397. &\u039c\u0391\u03a5. \u03a3\u039f\u039a. 375\u0393",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.84
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.88
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.88
+      }
+    ]
+  },
+  {
+    "product": "MMMILK \u039f\u0399\u039a\u039f\u0393\u0395\u039d\u0395\u0399\u0391\u039a\u039f \u0393\u0391\u039b\u0391 3. 5\u039b\u0399\u03a0. 8/1. 5L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.95
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.19
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.51
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.51
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.21
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.36
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.36
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.95
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.65
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.95
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.18
+      }
+    ]
+  },
+  {
+    "product": "7UP 6/1. 5L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.58
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.94
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.9
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.45
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.94
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.44
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.94
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u03a1\u0399\u03a3 \u039a\u03a1\u0399\u03a3 SELECTION \u039f\u039b\u0399\u039a\u0397\u03a3 \u0391\u039b\u0395\u03a3\u0397\u03a3 7/720G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.48
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.9
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.02
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.38
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.38
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.38
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.02
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.9
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u0392\u0393\u0391\u039b \u039a\u0395\u03a6\u0399\u03a1 \u03a6\u03a1\u0391\u039f\u03a5\u039b\u0391 . 12/500ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.73
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.7
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.7
+      }
+    ]
+  },
+  {
+    "product": "SANILAC 1 \u0393\u0391\u039b\u0391 \u0393\u0399\u0391 \u0392\u03a1\u0395\u03a6\u0397 12/400G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 12.85
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 13.09
+      },
+      {
+        "supermarket": "efresh",
+        "price": 11.9
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 12.6
+      },
+      {
+        "supermarket": "lidl",
+        "price": 12.6
+      },
+      {
+        "supermarket": "marketin",
+        "price": 12.79
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 12.6
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 12.61
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 12.6
+      },
+      {
+        "supermarket": "synka",
+        "price": 12.62
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 12.62
+      }
+    ]
+  },
+  {
+    "product": "ALFA \u03a4\u03a3\u0391. \u03a4\u03a1. \u03a3\u03a4\u0391\u039c\u039d\u0391\u0393. &\u039c\u03a5\u0396. \u039a\u03a1\u0397. \u039a\u03a4\u03a8 10/700G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 5.88
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.88
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.82
+      }
+    ]
+  },
+  {
+    "product": "PANNACOTTA \u039c\u0395 \u03a3\u0399\u03a1\u039f\u03a0\u0399 \u039a\u0391\u03a1\u0391\u039c\u0395\u039b\u0391",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.69
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.32
+      }
+    ]
+  },
+  {
+    "product": "ELVIART \u03a0\u0399\u03a4\u0391 \u039c\u0395 \u0391\u039b. \u039a\u0391\u039b\u0391\u039c\u03a0. 680G (8 TEM.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.0
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.55
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.94
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.55
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.94
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.99
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.94
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.58
+      }
+    ]
+  },
+  {
+    "product": "\u03a4\u03a1\u0399\u039a\u039a\u0397 \u0393\u0391\u039b\u0391 \u0395\u039b\u0391\u03a6\u03a1\u03a5 1% \u039b\u0399\u03a0. 10/1L.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.54
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.4
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.5
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.54
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.55
+      }
+    ]
+  },
+  {
+    "product": "HEINZ \u039a\u0395\u03a4\u03a3\u0391\u03a0 ZERO 10/425G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.11
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.35
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.63
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.65
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.4
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.76
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.65
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.63
+      }
+    ]
+  },
+  {
+    "product": "ORBIT \u03a4\u03a3\u0399\u03a7\u039b\u0391 BOTTLE SPEARMINT \u03a7\u0396 6\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.9
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.88
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.9
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.88
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.9
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.88
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.08
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.98
+      }
+    ]
+  },
+  {
+    "product": "\u03a0\u0391\u03a5\u039b\u0399\u0394\u0397\u03a3 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391\u039a\u0399\u0391 \u03a5\u0393\u0395\u0399\u0391\u03a3 MINI 18/350G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.86
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 6.85
+      },
+      {
+        "supermarket": "efresh",
+        "price": 8.37
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.86
+      },
+      {
+        "supermarket": "marketin",
+        "price": 6.85
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.86
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 8.37
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 8.37
+      },
+      {
+        "supermarket": "synka",
+        "price": 7.27
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 6.59
+      }
+    ]
+  },
+  {
+    "product": "STARBUCKS ESPR. HOUSE BLEND \u039a\u0391\u03a8. 12/57G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.99
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.71
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.95
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.97
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.95
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.98
+      }
+    ]
+  },
+  {
+    "product": "FAIRY ULTRA \u039a\u0391\u039d\u039f\u039d\u0399\u039a\u039f 650ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.51
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.59
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.99
+      }
+    ]
+  },
+  {
+    "product": "\u03a4\u0391\u03a7\u0399\u039d\u0399 \u039f\u039b\u03a5\u039c\u03a0\u039f\u03a3 \u039c\u0395 \u039c\u0395\u039b\u0399 300\u0393\u03a1",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.06
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.85
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.13
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 5.52
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.86
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.87
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.32
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u03a9\u03a3\u03a4\u0397\u039b\u0391\u03a4\u0391\u03a3 \u03a6\u03a5\u03a3. \u039c\u0395\u03a4. \u039d\u0395\u03a1\u039f 1. 5L (6\u03a4\u0395\u039c).",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.83
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.76
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.75
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.86
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.76
+      }
+    ]
+  },
+  {
+    "product": "\u0394\u0395\u039b\u03a4\u0391 \u0391\u03a0\u039b\u0391 \u03a3\u03a4\u03a1\u0391\u0393\u0393\u0391\u03a4\u039f \u0395\u03a0. \u0393\u0399\u0391\u039f\u03a5\u03a1. 5% 6/1KG",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.1
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.98
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.98
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.98
+      }
+    ]
+  },
+  {
+    "product": "HELLMANN'S \u039c\u0391\u0393\u0399\u039f\u039d\u0395\u0396\u0391 LIGHT 12/450ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.36
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.89
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.41
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.9
+      },
+      {
+        "supermarket": "lidl",
+        "price": 4.58
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.58
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.64
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.07
+      },
+      {
+        "supermarket": "synka",
+        "price": 5.04
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.77
+      }
+    ]
+  },
+  {
+    "product": "\u03a3\u039f\u03a5\u03a1\u03a9\u03a4\u0397 \u0391\u039d\u0398\u03a1\u0391\u039a. \u039d\u0395\u03a1\u039f \u039a\u039f\u03a5\u03a4\u0399 330ML4/(6TEM)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.99
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.9
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.8
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.86
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.86
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.86
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.95
+      }
+    ]
+  },
+  {
+    "product": "NESCAFE \u03a3\u03a4\u0399\u0393\u039c. \u039a\u0391\u03a6. GOLD BLEND 12/95G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.75
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 6.75
+      },
+      {
+        "supermarket": "efresh",
+        "price": 6.77
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.75
+      },
+      {
+        "supermarket": "lidl",
+        "price": 6.75
+      },
+      {
+        "supermarket": "marketin",
+        "price": 6.75
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.75
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.4
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.4
+      },
+      {
+        "supermarket": "synka",
+        "price": 6.77
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 5.4
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u03a1\u0399 \u039a\u03a1\u0399 \u0391\u0393\u0395\u039b\u0391\u0394\u039f\u03a3 2% \u039b\u0399\u03a0. 200G(2+1 \u0394\u03a9\u03a1\u039f)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.65
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.26
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.65
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.65
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u0391\u03a1\u0391\u039c\u039f\u039b\u0395\u0393\u039a\u039f\u03a3 \u0394\u0395\u039a\u0391 \u03a8\u03a9\u039c. \u03a6\u0395\u03a4. \u03a0\u039f\u039b. CHI 6/500G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.39
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.3
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.31
+      }
+    ]
+  },
+  {
+    "product": "\u0394\u03a9\u0394\u03a9\u039d\u0397 \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 \u0391\u0393\u0395\u039b. 2 %\u039b\u0399\u03a0. 3X200G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.42
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.33
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.69
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.22
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.33
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.33
+      }
+    ]
+  },
+  {
+    "product": "ELEF \u03a3\u0391\u039a. \u0391\u03a0\u039f\u03a1. 58\u03a778C\u039c \u039c\u0395\u0393. \u03a7\u0395\u03a1. 32/15\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.05
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.29
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.97
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.97
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.97
+      }
+    ]
+  },
+  {
+    "product": "BRUT A/SHAVE REG 100ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 10.4
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 9.9
+      }
+    ]
+  },
+  {
+    "product": "CALGON \u0391\u03a0\u039f\u03a3\u039a\u039b\u0397\u03a1\u03a5\u039d\u03a4\u0399\u039a\u039f \u03a0\u039b\u03a5\u039d\u03a4\u0397\u03a1\u0399\u039f\u03a5 14/950G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 11.3
+      },
+      {
+        "supermarket": "efresh",
+        "price": 10.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 10.96
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 10.98
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 7.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 10.99
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 7.14
+      }
+    ]
+  },
+  {
+    "product": "LENOR \u039c\u0391\u039b\u0391\u039a\u03a4\u0399\u039a\u039f \u03a1\u039f\u03a5\u03a7. CARESSE SPR. 8/55\u039c\u0395\u0396",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.7
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 7.45
+      }
+    ]
+  },
+  {
+    "product": "MILLHOUSE \u039d\u0399\u03a6. \u0392\u03a1\u03a9\u039c\u0397\u03a3 BIO 500\u0393",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.09
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.9
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.9
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.9
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.92
+      }
+    ]
+  },
+  {
+    "product": "AGRINO \u03a1\u03a5\u0396\u039f\u0393\u039a\u039f\u03a6\u03a1\u0395\u03a4\u0395\u03a3 \u039c\u0395 \u039a\u0391\u039d\u0395\u039b\u0391 12/115G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.66
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.98
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.99
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.58
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.98
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.49
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.68
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.49
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.48
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.49
+      }
+    ]
+  },
+  {
+    "product": "SOUPLINE \u039c\u0391\u039b. \u03a3\u03a5\u039c\u03a0. \u0391\u03a5\u03a1. \u0394\u03a1\u039f\u03a3. 56\u039c12/1. 25L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.7
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.6
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.74
+      }
+    ]
+  },
+  {
+    "product": "NESQUIK \u03a1\u039f\u03a6\u0397\u039c\u0391 \u03a3\u0391\u039a\u039f\u03a5\u039b\u0391 14/400G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.22
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.1
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.25
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.28
+      },
+      {
+        "supermarket": "marketin",
+        "price": 4.1
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.1
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.98
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.53
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.36
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.87
+      }
+    ]
+  },
+  {
+    "product": "ADVANCE \u0395\u03a0\u0399\u0394. \u03a1\u039f\u0394-\u039c\u0397\u039b\u039f-\u0392\u03a1. 12/145G(2\u03a4\u0395\u039c)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.19
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.18
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.18
+      }
+    ]
+  },
+  {
+    "product": "SOUPLINE \u039c\u0391\u039b. \u03a3\u03a5\u039c\u03a0. \u03a5\u03a0\u039f\u0391\u039b. 42\u039c\u0395\u0396. 12/924ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.99
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.85
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.4
+      }
+    ]
+  },
+  {
+    "product": "\u039d\u039f\u03a5\u039d\u039f\u03a5 LIGHT \u0393\u0391\u039b\u0391 \u03a3\u03a5\u039c\u03a0\u03a5\u039a\u039d\u03a9\u039c\u0395\u039d\u039f 48/170G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.82
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 0.82
+      },
+      {
+        "supermarket": "efresh",
+        "price": 0.65
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 0.82
+      },
+      {
+        "supermarket": "lidl",
+        "price": 0.82
+      },
+      {
+        "supermarket": "marketin",
+        "price": 0.82
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 0.82
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.66
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.66
+      },
+      {
+        "supermarket": "synka",
+        "price": 0.82
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 0.82
+      }
+    ]
+  },
+  {
+    "product": "\u039f\u0399\u039a. \u03a3\u03a4\u0395\u03a1\u0393\u0399\u039f\u03a5 STRUDEL \u039c\u0397\u039b\u039f & \u039a\u0391\u039d\u0395\u039b\u0391 125G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.15
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.08
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.1
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.1
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.1
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.1
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.1
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.14
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.14
+      }
+    ]
+  },
+  {
+    "product": "SANI PANTS \u0395\u03a3\u03a9\u03a1. \u0391\u039a\u03a1\u0391\u03a4. \u039d. 2 MEDIUM 4/24T",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 13.17
+      },
+      {
+        "supermarket": "efresh",
+        "price": 10.67
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 13.94
+      },
+      {
+        "supermarket": "lidl",
+        "price": 12.59
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 13.94
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 13.94
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 12.59
+      },
+      {
+        "supermarket": "synka",
+        "price": 13.94
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 12.67
+      }
+    ]
+  },
+  {
+    "product": "LIPTON ICE TEA \u03a1\u039f\u0394\u0391\u039a\u0399\u039d\u039f 12/500ML.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.3
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.58
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.58
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.58
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.59
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.58
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.26
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.18
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.6
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.2
+      }
+    ]
+  },
+  {
+    "product": "ROL \u03a3\u039a\u039f\u039d\u0397 \u0391\u03a0\u039f\u03a1\u03a1. \u03a7\u0395\u03a1\u0399\u039f\u03a5 AR. BOOST 18/380G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.75
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.39
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.62
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.65
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.86
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.45
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.86
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.71
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.56
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.86
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.6
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u03a7\u03a1\u03a5\u03a3\u0397 \u0395\u03a0\u0399\u039b\u039f\u0393\u0397 \u03a0\u039b\u0395\u039e\u039f\u03a5\u0394\u0395\u03a3 12/500G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.22
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.6
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.3
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.4
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.09
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.3
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.57
+      }
+    ]
+  },
+  {
+    "product": "SYOSS SALOPLEX \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d 6/750ML.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.52
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.26
+      }
+    ]
+  },
+  {
+    "product": "PAMPERS PREM CAR PANTS N5 12-17KG 3/34\u03a4.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 13.49
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 12.5
+      },
+      {
+        "supermarket": "efresh",
+        "price": 14.51
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 13.55
+      },
+      {
+        "supermarket": "lidl",
+        "price": 12.05
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 13.26
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 13.29
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 12.77
+      },
+      {
+        "supermarket": "synka",
+        "price": 13.26
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 12.09
+      }
+    ]
+  },
+  {
+    "product": "SOFLAN BIL. CLAS. \u03a5\u0393\u03a1\u039f \u0391\u03a0\u039f\u03a1. 18M 12/900ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.28
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.34
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.31
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.35
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u0393\u0391 \u0391\u039d\u03a4\u0399\u03a3\u0397\u03a0\u03a4\u0399\u039a\u0397 \u039b\u039f\u03a3\u0399\u039f\u039d \u03a3\u03a0\u03a1\u0395\u0399 36/100ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.39
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.98
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.39
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.39
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.39
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.44
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.38
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.39
+      }
+    ]
+  },
+  {
+    "product": "PEPSI ZERO 6/1. 5L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.56
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.05
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.08
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.49
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.04
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.54
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.3
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u039a\u0391\u039d\u0395\u039b\u039b\u039f\u039d\u0399\u0391 \u03a3\u0395 \u039a\u039f\u03a5\u03a4\u0399 250G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.26
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.9
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.71
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.42
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.44
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.11
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.45
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.65
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.84
+      }
+    ]
+  },
+  {
+    "product": "ALPRO \u03a1\u039f\u03a6\u0397\u039c\u0391 \u039a\u0391\u03a1\u03a5\u0394\u0391\u03a3 8/1L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.69
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.25
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.23
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.23
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.68
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.23
+      }
+    ]
+  },
+  {
+    "product": "\u039b\u039f\u03a5\u039a\u0391\u039d\u0399\u039a\u0391 \u03a4\u0397\u03a3 \u039c\u0391\u03a1\u03a9\u03a3 \u03a7\u03a9\u03a1\u0399\u0391\u03a4\u0399\u039a\u0391 340G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.14
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.9
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.92
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.92
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.12
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.92
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.47
+      }
+    ]
+  },
+  {
+    "product": "\u039f\u039b\u03a5\u039c\u03a0\u039f\u03a3 \u03a1\u039f\u03a6\u0397\u039c\u0391 \u0391\u039c\u03a5\u0393\u0394\u0391\u039b\u039f\u03a5 \u03a0\u03a1\u03a9\u03a4\u0395\u0399\u039d\u0397 12/1L.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.74
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.33
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.3
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.3
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.29
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.48
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.48
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.28
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.48
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.16
+      }
+    ]
+  },
+  {
+    "product": "BECEL PROACTIV DRINK \u03a6\u03a1\u0391\u039f\u03a5\u039b\u0391 6/75G(4\u03a4\u0395\u039c)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.79
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.72
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.76
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.72
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.2
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.72
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.72
+      }
+    ]
+  },
+  {
+    "product": "ADORO COTTAGE 6/200G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.48
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.92
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.3
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.38
+      }
+    ]
+  },
+  {
+    "product": "LAVACHE QUI RIT \u03a4\u03a1\u0399\u0393. (24\u039c\u0395\u03a1. )24/384G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 5.95
+      },
+      {
+        "supermarket": "efresh",
+        "price": 5.4
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 5.85
+      },
+      {
+        "supermarket": "lidl",
+        "price": 3.95
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.84
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 5.86
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 5.84
+      },
+      {
+        "supermarket": "synka",
+        "price": 5.85
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 5.84
+      }
+    ]
+  },
+  {
+    "product": "NESTLE NESQUIK EXT. CHOC. WAV. \u0394\u0397\u039c. 22/375G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.27
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.49
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.36
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.21
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.28
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.28
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.59
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.89
+      }
+    ]
+  },
+  {
+    "product": "COLGATE NATURALS LEMON \u039f\u0394\u039f\u039d\u03a4/\u039c\u0391 12/75ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.67
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.67
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.34
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.96
+      }
+    ]
+  },
+  {
+    "product": "OSCAR \u039a\u0391\u03a1. \u03a3\u0391\u039a\u039f\u03a5\u039b. \u0396\u0395\u039b\u0395 \u039c\u0395 \u0393\u0395\u03a5\u03a3\u0397 \u0392\u0391\u03a4\u039f\u039c\u039f\u03a5\u03a1\u039f MAGIC CANDY",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 1.02
+      }
+    ]
+  },
+  {
+    "product": "\u0394\u03a9\u0394\u03a9\u039d\u0397 \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 \u0391\u0393\u0395\u039b. 3. 9%\u039b. 3X200G(2+1)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.33
+      },
+      {
+        "supermarket": "lidl",
+        "price": 1.75
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.55
+      }
+    ]
+  },
+  {
+    "product": "FRULITE BOOST \u03a0\u039f\u03a1\u03a4-\u0392\u0395\u03a1\u0399\u039a 12/500ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.85
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.82
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.72
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.6
+      },
+      {
+        "supermarket": "lidl",
+        "price": 0.89
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.82
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.8
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.72
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.8
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.82
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.82
+      }
+    ]
+  },
+  {
+    "product": "SCHWEPPES PINK GRAPEFRUIT 24/330ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.87
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 0.82
+      },
+      {
+        "supermarket": "efresh",
+        "price": 0.79
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 0.82
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 0.84
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.89
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.84
+      },
+      {
+        "supermarket": "synka",
+        "price": 0.84
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 0.81
+      }
+    ]
+  },
+  {
+    "product": "COCA COLA 1. 5L 3/(2TEM)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.89
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.88
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.88
+      },
+      {
+        "supermarket": "lidl",
+        "price": 3.38
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.88
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.88
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.88
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.92
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.9
+      }
+    ]
+  },
+  {
+    "product": "ELVIVE DREAM LONG \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d 6/400ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.91
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.75
+      },
+      {
+        "supermarket": "efresh",
+        "price": 5.68
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.62
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.47
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.34
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.79
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.47
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.8
+      }
+    ]
+  },
+  {
+    "product": "\u0391\u039b\u03a4\u0399\u03a3 \u03a0\u0391\u03a1\u0391\u0394\u039f\u03a3\u0399\u0391\u039a\u039f \u0395\u039e. \u03a0\u0391\u03a1\u0398. \u0395\u039b\u0391\u0399\u039f/\u0394\u039f 12/1L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 10.0
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 11.55
+      },
+      {
+        "supermarket": "lidl",
+        "price": 11.55
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 9.98
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 9.5
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 9.5
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u039b\u0399\u03a3\u03a3\u0391 \u039a\u039f\u03a6\u03a4\u039f 500G(2\u03a4\u0395\u039c-0. 50)/6\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.42
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.9
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.42
+      }
+    ]
+  },
+  {
+    "product": "\u039a\u0391\u03a4\u03a3\u0395\u039b\u0397\u03a3 \u03a0\u0391\u03a1\u0391\u0394\u039f\u03a3. \u039f\u039b. \u0391\u039b. \u039a\u0391\u039d. \u03a6\u0395\u03a4\u0395\u03a3 5/720G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.93
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.9
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.04
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.89
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.9
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.91
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.92
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.92
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.91
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.5
+      }
+    ]
+  },
+  {
+    "product": "ALFA \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u039f \u03a6\u03a5\u039b\u039b\u039f \u0392\u03a5\u03a1\u0397\u03a4\u039f\u03a5 20/450G",
+    "prices": [
+      {
+        "supermarket": "efresh",
+        "price": 2.95
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.01
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.96
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.59
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0399\u039d\u0395\u03a1\u0392\u0399\u039d\u0397 \u039c\u0395 \u0391\u03a1\u0391\u0392\u039f\u03a3\u0399\u03a4\u0395\u039b\u0391\u0399\u039f 8/400 G.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.2
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 4.05
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.08
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.08
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.96
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.08
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.08
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.08
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u03a0\u0391\u03a1\u039c\u03a0\u0391\u03a3\u03a4\u0391\u0398\u0397\u03a3 \u039a\u03a1\u0399\u0398/\u039a\u0399 \u039c\u0391\u039d/\u03a1\u0399 \u039a\u03a4\u03a812/750G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.68
+      },
+      {
+        "supermarket": "efresh",
+        "price": 4.47
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.52
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.46
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 4.5
+      },
+      {
+        "supermarket": "synka",
+        "price": 4.46
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.4
+      }
+    ]
+  },
+  {
+    "product": "ROL \u03a5\u0393\u03a1\u039f \u0391\u03a0\u039f\u03a1\u03a1\u03a5\u03a0\u0391\u039d\u03a4\u0399\u039a\u039f \u03a7\u0395\u03a1\u0399\u039f\u03a5 16/750ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.15
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.85
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.98
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.98
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.03
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.47
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.88
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.97
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.47
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.48
+      }
+    ]
+  },
+  {
+    "product": "FAIRY PLATINUM CAPS \u03a0\u039b. \u03a0\u0399\u0391\u03a4. \u039b\u0395\u039c\u039f\u039d\u0399 5/21\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 6.97
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 13.94
+      },
+      {
+        "supermarket": "synka",
+        "price": 6.97
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 13.94
+      }
+    ]
+  },
+  {
+    "product": "PALMOLIVE \u0391\u03a6\u03a1\u039f\u039b. AROMA RELAX 12/500ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.54
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.99
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.63
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.99
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.9
+      }
+    ]
+  },
+  {
+    "product": "SEPTONA \u0392\u0399\u039f\u0394\u0399\u0391\u03a3\u03a0. \u03a9\u03a4/\u03a3\u03a4\u0395\u03a3 \u0392\u0391\u0392\u03a5 18/50T.",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 1.7
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.49
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.99
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.72
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.45
+      }
+    ]
+  },
+  {
+    "product": "PAMPERS PREM CARE PANTS N6 15+KG 3/31\u03a4\u0395M",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 13.01
+      },
+      {
+        "supermarket": "efresh",
+        "price": 13.95
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 13.02
+      },
+      {
+        "supermarket": "lidl",
+        "price": 9.79
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 12.75
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 12.77
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 12.98
+      },
+      {
+        "supermarket": "synka",
+        "price": 12.75
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 11.63
+      }
+    ]
+  },
+  {
+    "product": "ORZENE \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d \u039a\u0391\u039d. \u039c\u0391\u039b. \u0391\u039d\u03a4\u039b. 6/750ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.97
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 4.1
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 6.3
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 6.48
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.75
+      },
+      {
+        "supermarket": "synka",
+        "price": 6.35
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.8
+      }
+    ]
+  },
+  {
+    "product": "TIDE ALPINE \u03a3\u039a\u039f\u039d\u0397 \u0391\u03a0\u039f\u03a1/\u039a\u039f \u03a7\u0395\u03a1\u0399\u039f\u03a5 18/450G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.55
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.43
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.44
+      }
+    ]
+  },
+  {
+    "product": "\u0395\u0392\u039f\u039b \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 \u039a\u0391\u03a4\u03a3\u0399\u039a\u0399\u03a3\u0399\u039f \u0392\u0399\u039f\u039b. 12/190G",
+    "prices": [
+      {
+        "supermarket": "bazaar",
+        "price": 1.91
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.6
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.6
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.7
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.66
+      }
+    ]
+  },
+  {
+    "product": "LAY'S CHIPS \u0391\u039b\u0391\u03a4\u0399 & \u039e\u03a5\u0394\u0399 130G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.03
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.95
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.95
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.84
+      }
+    ]
+  },
+  {
+    "product": "JACOBS \u0395\u039a\u039b\u0395\u039a\u03a4\u039f\u03a3 \u039a\u0391\u03a6\u0395\u03a3 \u03a6\u0399\u039b\u03a4\u03a1\u039f\u03a5 12/500G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 12.8
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 10.16
+      },
+      {
+        "supermarket": "efresh",
+        "price": 12.8
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 10.24
+      },
+      {
+        "supermarket": "marketin",
+        "price": 11.48
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 8.96
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 12.73
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 8.96
+      },
+      {
+        "supermarket": "synka",
+        "price": 8.96
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 12.9
+      }
+    ]
+  },
+  {
+    "product": "ELVIVE COLORVIVE \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d 6/700ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 5.18
+      },
+      {
+        "supermarket": "efresh",
+        "price": 7.68
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.26
+      },
+      {
+        "supermarket": "lidl",
+        "price": 5.18
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 5.4
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 6.14
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 5.18
+      },
+      {
+        "supermarket": "synka",
+        "price": 5.4
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.95
+      }
+    ]
+  },
+  {
+    "product": "\u0392\u0399\u03a4\u0391\u039c SOFT \u039c\u0395 \u0393\u0399\u0391\u039f\u03a5\u03a1\u03a4\u0399 8/225G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.73
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.85
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.74
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.75
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.73
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 1.95
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 1.43
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.3
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.95
+      }
+    ]
+  },
+  {
+    "product": "ALPRO \u03a1\u039f\u03a6\u0397\u039c\u0391 \u0392\u03a1\u03a9\u039c\u0397\u03a3-\u0391\u039c\u03a5\u0393\u0394\u0391\u039b\u039f 8/1L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.48
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 2.12
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.99
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.98
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.98
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.38
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.48
+      },
+      {
+        "supermarket": "synka",
+        "price": 2.98
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.98
+      }
+    ]
+  },
+  {
+    "product": "SEPTONA \u03a9\u03a4/\u03a3\u03a4\u0395\u03a3 BABY 50TEM \u0393\u0391\u039b\u0391\u039e\u0399\u0391\u03a3 PAPER STICKS (*72)",
+    "prices": [
+      {
+        "supermarket": "galaxias",
+        "price": 1.12
+      }
+    ]
+  },
+  {
+    "product": "KARAVAKI \u03a3\u0391\u03a0\u039f\u03a5\u039d\u0399 48/125G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.92
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 0.88
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 0.87
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 0.87
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.87
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.79
+      },
+      {
+        "supermarket": "synka",
+        "price": 0.88
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 0.7
+      }
+    ]
+  },
+  {
+    "product": "\u03a7\u03a1\u03a5\u03a3\u0391 \u0391\u03a5\u0393\u0391 \u0392\u0399\u039f \u0395\u039e. \u03a6\u03a1\u0395\u03a3\u039a\u0391 \u0391\u03a5\u0393\u0391 6\u0391\u0394\u0391 MEDIU",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.86
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 4.68
+      }
+    ]
+  },
+  {
+    "product": "SEPTONA \u039c\u03a9\u03a1\u039f\u039c/\u039b\u0391 CALM \u03a0\u0391\u039d\u0398\u0395\u039d. 16/12\u03a4(2+1)",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 1.79
+      }
+    ]
+  },
+  {
+    "product": "HANSAPLAST \u0395\u03a0\u0399\u0398\u0395\u039c\u0391\u03a4\u0391 \u0395\u039b\u0391\u03a3\u03a4\u0399\u039a\u0391 10/20\u03a4\u0395M",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.34
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.05
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.03
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.12
+      },
+      {
+        "supermarket": "marketin",
+        "price": 3.15
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.18
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.07
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.18
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.19
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.1
+      }
+    ]
+  },
+  {
+    "product": "3BIT \u039c\u03a0\u0391\u03a1\u0391 \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u03a4\u0397 20/65G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.95
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.42
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.36
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.12
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.18
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 1.12
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.9
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 1.18
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 0.9
+      }
+    ]
+  },
+  {
+    "product": "KALLIMANIS \u03a7\u03a4\u0391\u03a0\u039f\u0394\u0399 \u039a\u03a4\u03a8 16/500G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 18.88
+      },
+      {
+        "supermarket": "efresh",
+        "price": 17.99
+      }
+    ]
+  },
+  {
+    "product": "PANTENE \u03a3\u0391\u039c\u03a0\u039f\u03a5\u0391\u039d \u0391\u03a0\u0391\u039b\u0391 & \u039c\u0395\u03a4\u0391\u039e. 6/675ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.99
+      },
+      {
+        "supermarket": "lidl",
+        "price": 4.74
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 7.9
+      }
+    ]
+  },
+  {
+    "product": "PAMPERS PANTS N. 6 15+KG 2/48TEM",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 14.61
+      },
+      {
+        "supermarket": "efresh",
+        "price": 17.03
+      },
+      {
+        "supermarket": "lidl",
+        "price": 13.89
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 28.37
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 13.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 15.6
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 28.39
+      }
+    ]
+  },
+  {
+    "product": "\u039c\u0395\u0392\u0393\u0391\u039b CREME \u039a\u0391\u03a1\u0391\u039c\u0395\u039b\u0395 12/150G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.14
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 1.11
+      },
+      {
+        "supermarket": "efresh",
+        "price": 1.12
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.1
+      },
+      {
+        "supermarket": "marketin",
+        "price": 1.1
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 0.88
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.77
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 0.88
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 1.1
+      }
+    ]
+  },
+  {
+    "product": "CAPRICE CLASSIC \u039c\u0399\u039d\u0399 115G (2 TEM).",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.25
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.25
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.76
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.25
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.26
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.25
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.28
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.24
+      }
+    ]
+  },
+  {
+    "product": "SOFTEX SILK \u03a7/\u03a5 3\u03a6 8\u0391\u03a1\u0399 8/0. 760KG",
+    "prices": [
+      {
+        "supermarket": "bazaar",
+        "price": 3.79
+      },
+      {
+        "supermarket": "efresh",
+        "price": 3.7
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 3.49
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.23
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.49
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 3.49
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.23
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.6
+      }
+    ]
+  },
+  {
+    "product": "ALFA \u0395\u039a\u039b. \u039b\u039f\u03a5\u039a/\u039a\u0399\u0391 \u039a\u0395\u03a4\u03a3\u0391\u03a0 \u039a\u03a4\u03a8 12/450G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 3.65
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.44
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.25
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.48
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.48
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.3
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.48
+      }
+    ]
+  },
+  {
+    "product": "ALPRO \u03a1\u039f\u03a6\u0397\u039c\u0391 \u0391\u039c\u03a5\u0393\u0394\u0391\u039b\u039f\u03a5 250ML",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 1.2
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.14
+      }
+    ]
+  },
+  {
+    "product": "\u03a6\u0391\u0393\u0395 \u03a4\u03a1\u0399\u039a\u0391\u039b\u0399\u039d\u039f \u039a\u039f\u039c\u039c\u0391\u03a4\u0399 12/380G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 7.04
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 6.89
+      },
+      {
+        "supermarket": "efresh",
+        "price": 6.9
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 6.35
+      },
+      {
+        "supermarket": "marketin",
+        "price": 6.89
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 7.01
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 6.9
+      },
+      {
+        "supermarket": "synka",
+        "price": 6.89
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 6.88
+      }
+    ]
+  },
+  {
+    "product": "AINOS ARAKAS ELLHNIKOS KATEPS. 1KG.",
+    "prices": [
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.6
+      }
+    ]
+  },
+  {
+    "product": "ARIEL ALLIN1 \u0391\u03a0. \u03a0\u039b. \u039a\u0391\u03a8. ALPINE 3/(17+17)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 10.25
+      },
+      {
+        "supermarket": "efresh",
+        "price": 10.99
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 10.9
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 10.98
+      }
+    ]
+  },
+  {
+    "product": "\u0392\u0399\u039a\u039f\u03a3 \u03a6\u03a5\u03a3\u0399\u039a\u039f \u039c\u0395\u03a4\u0391\u039b\u039b\u0399\u039a\u039f \u039d\u0395\u03a1\u039f 1. 5L.",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.35
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 0.34
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 0.34
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.34
+      }
+    ]
+  },
+  {
+    "product": "GERBER ORGANIC \u03a6\u03a1\u039f\u03a5\u03a4. \u0391\u03a7. \u039c. \u039c\u03a0\u0391\u039d. BIO16/90G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.53
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.35
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.35
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 3.05
+      }
+    ]
+  },
+  {
+    "product": "\u039d\u039f\u03a5\u039d\u039f\u03a5 \u0393\u0391\u039b\u0391 \u03a3\u03a5\u039c\u03a0\u03a5\u039a\u039d. LIGHT 400G 8/(6\u03a4\u0395\u039c)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 7.54
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 7.54
+      },
+      {
+        "supermarket": "efresh",
+        "price": 6.43
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 7.54
+      },
+      {
+        "supermarket": "lidl",
+        "price": 7.54
+      },
+      {
+        "supermarket": "marketin",
+        "price": 7.56
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 7.54
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 6.05
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 6.05
+      },
+      {
+        "supermarket": "synka",
+        "price": 7.56
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 7.56
+      }
+    ]
+  },
+  {
+    "product": "\u039d\u039f\u03a5\u039d\u039f\u03a5 \u039a\u03a1\u0395\u039c\u0391 \u0393\u0391\u039b\u0391\u039a\u03a4\u039f\u03a3 \u03a0\u039b\u0397\u03a1\u0397 3\u03a7200ML(2+1)",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 5.4
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 3.74
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 3.64
+      }
+    ]
+  },
+  {
+    "product": "NIKAS \u0395\u039b\u039b. \u039a\u039f\u03a5\u0396\u0399\u039d\u0391 \u039a\u039f\u03a4\u039f\u03a0. \u03a1\u03a5\u0396\u0399 350GR",
+    "prices": [
+      {
+        "supermarket": "masoutis",
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "product": "SOUPLINE \u039c\u0391\u039b. \u03a3\u03a5\u039c\u03a0. \u039a\u0391\u03a1. \u039b. \u0391\u039d. 77\u039c9/1. 70L",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 4.8
+      },
+      {
+        "supermarket": "lidl",
+        "price": 4.65
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 4.7
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 4.9
+      }
+    ]
+  },
+  {
+    "product": "GOURMET GOLD \u039c\u039f\u03a5\u03a3 \u039a\u039f\u03a4\u039f\u03a0\u039f\u03a5\u039b\u039f 24/85G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 0.95
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 0.89
+      },
+      {
+        "supermarket": "efresh",
+        "price": 0.89
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 0.9
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 0.71
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 0.9
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 0.89
+      }
+    ]
+  },
+  {
+    "product": "EVERYDAY SENSITIVE UL. PL. SUPER 24/18\u03a4",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.45
+      },
+      {
+        "supermarket": "bazaar",
+        "price": 3.2
+      },
+      {
+        "supermarket": "efresh",
+        "price": 2.5
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 2.77
+      },
+      {
+        "supermarket": "lidl",
+        "price": 2.45
+      },
+      {
+        "supermarket": "marketin",
+        "price": 2.45
+      },
+      {
+        "supermarket": "masoutis",
+        "price": 2.45
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.57
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.45
+      },
+      {
+        "supermarket": "synka",
+        "price": 3.04
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.81
+      }
+    ]
+  },
+  {
+    "product": "MCVITIE'S M\u03a0. DIGESTIVE \u03a3\u039f\u039a\u039f\u039b\u0391\u03a4\u0391 24/200G",
+    "prices": [
+      {
+        "supermarket": "ab",
+        "price": 2.42
+      },
+      {
+        "supermarket": "galaxias",
+        "price": 1.95
+      },
+      {
+        "supermarket": "mymarket",
+        "price": 2.28
+      },
+      {
+        "supermarket": "sklavenitis",
+        "price": 2.3
+      },
+      {
+        "supermarket": "xalkiadakis",
+        "price": 2.3
+      }
+    ]
+  }
+]
