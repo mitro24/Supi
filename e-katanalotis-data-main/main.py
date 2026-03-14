@@ -5,35 +5,98 @@ import json
 from rapidfuzz import fuzz
 import random
 from collections import defaultdict
+import unicodedata
 
+
+# helper function to remove accents from characters
+# used when normalizing product names
+def remove_accents(text):
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', text)
+        if unicodedata.category(c) != 'Mn'
+    )
 
 # helper function to normalize product names for better matching
 def normalize_name(name):
-    name = name.lower() # convert to lowercase
-    name = name.replace(",", ".") # unify decimal separator
-    name = re.sub(r"[^a-z0-9. ]", "", name) # remove special characters except dots and spaces
-    name = re.sub(r"\s+", " ", name) # replace multiple spaces with a single space
+    # convert to lowercase, unify decimal separator and remove accents
+    name = remove_accents(name.lower().replace(",", "."))
 
-    return name.strip()
-    # return normalized name without spaces
-    # before or after for better matching
+    # remove special characters except dots and spaces
+    name = re.sub(r"[^\w. ]", "", name, flags=re.UNICODE)
+    
+    # remove extra spaces
+    name = re.sub(r"\s+", " ", name).strip()
 
-# helper fucntion to extract size information
-# to group products more accurately based on size
-def extract_size(name):
+    # check if the name is of a certain pattern
     pattern = r"(\d+(?:\.\d+)?)\s*(ml|l|lt|g|kg)"
     match = re.search(pattern, name)
 
     if match:
+        name = name[:match.end()]
+
+    # return normalized name without spaces
+    # before or after for better matching
+    return name.strip()
+
+# helper fucntion to extract size information
+# to group products more accurately based on size
+def extract_size(name):
+    # convert to lowercase and unify decimal separator
+    name = name.lower().replace(",", ".")
+
+    # check if the name is of a certain pattern
+    pattern = r"(\d+(?:\.\d+)?)\s*(ml|l|lt|g|kg)"
+    match = re.search(pattern, name)
+
+    if match:
+        # amount is the size of the product in ml or g
         amount = float(match.group(1))
         unit = match.group(2)
 
-        if unit in ["l", "lt", "L", "LT", "Lt",
-                    "kg", "KG", "Kg",
-                    ]:
+        if unit in ["l", "lt", "kg"]:
             amount *= 1000
 
         return int(amount)
+
+    return None
+
+# helper function to check if 2 products are the same
+# based on product size and name similarity using fuzzy matching
+def same_product(a, b):
+    if extract_size(a) != extract_size(b):
+        return False
+
+    return fuzz.token_set_ratio(normalize_name(a), normalize_name(b)) > 80
+
+# helper function to help the AI find the correct product
+# based on user search
+def find_product_group(search):
+    # extract size from the search term
+    searchSize = extract_size(search)
+    # normalize the search term
+    search = normalize_name(search)
+
+    # loop where we find the best matching product
+    maxScore = 0
+    bestGroup = None
+
+    for groupId, name in groupName.items():
+        # if product size is different from the search term size, continue
+        if extract_size(name) != searchSize:
+            continue
+
+        # calculating similarity using fuzzy matching
+        score = fuzz.token_set_ratio(search, normalize_name(name))
+
+        # finding max score
+        if score > maxScore:
+            maxScore = score
+            bestGroup = groupId
+
+    # return the best matching product
+    # if the similarity score is above a certain threshold
+    if maxScore > 70:
+        return bestGroup
 
     return None
 
@@ -51,30 +114,31 @@ result = data["context"]["MAPP_PRODUCTS"]["result"]
 
 # initial data extraction
 # all_merchants contains all supermarket names and details
-all_merchants = result["merchants"]
+allMerchants = result["merchants"]
 
 # all_categories contains all categories and details
-all_categories = result["categories"]
+allCategories = result["categories"]
 
 # all_suppliers contains all supplier names and details
-all_suppliers = result["suppliers"]
+allSuppliers = result["suppliers"]
 
 # all_products contains all products and details
-all_products = result["products"]
-print(all_products[0])
-
-# # base_url contains the base url for product images
-# base_url = result["img_base_url"]
+allProducts = result["products"]
+print(allProducts[0])
 
 
 # creating a smaller dataset with 150 products and 50 suppliers
-products = random.sample(all_products, 150)
-suppliers = random.sample(all_suppliers, 50)
+productNames = list(set(p["name"] for p in allProducts))
+productsSelected = random.sample(productNames, 150)
+products = [p for p in allProducts if p["name"] in productsSelected]
+
+supplierIds = set(p["supplier"] for p in products)
+suppliers = [s for s in allSuppliers if s["id"] in supplierIds]
 
 # temporary dataset to store the lesser data
 # with the product name, supermarket name, price and category
-merchants = {m["merchant_uuid"]: m["name"] for m in all_merchants}
-categories = {c["uuid"]: c["name"] for c in all_categories}
+merchants = {m["merchant_uuid"]: m["name"] for m in allMerchants}
+categories = {c["uuid"]: c["name"] for c in allCategories}
 
 dataset = []
 for p in products:
@@ -117,11 +181,11 @@ with open("products_grouped.json", "w") as f:
 # grouping similar products together using fuzzy matching
 groups = [[databaseClean[0]["product"]]]
 
-for product in databaseClean:
+for product in databaseClean[1:]:
     placed = False
-    
+
     for group in groups:
-        if fuzz.token_sort_ratio(product["product"], group[0]) > 85:
+        if same_product(product["product"], group[0]):
             group.append(product["product"])
             placed = True
             break
@@ -129,4 +193,31 @@ for product in databaseClean:
     if not placed:
         groups.append([product["product"]])
 
-print(groups)
+# giving an id to each group for easier reference
+referenceIds = {}
+
+for i, group in enumerate(groups):
+    for name in group:
+        referenceIds[name] = i
+
+# creating a group id for each group
+for item in databaseClean:
+    item["group_id"] = referenceIds[item["product"]]
+
+# adding the group id to each group
+groupedProducts = defaultdict(list)
+
+for item in databaseClean:
+    groupedProducts[item["group_id"]].append(item)
+
+print(groupedProducts[0])
+
+# renaming each group with the name of the first product in that group
+groupName = {}
+
+for i, group in enumerate(groups):
+    groupName[i] = group[0]
+
+# creating a new dataset with the group id for each product
+with open("products_grouped_final.json", "w") as f:
+    json.dump(groupedProducts, f, indent=2)
