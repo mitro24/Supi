@@ -1,11 +1,21 @@
-# all necessary imports
+# # # IMPORTS
+
+
 import re
 import requests
 import json
-from rapidfuzz import fuzz
 import random
-from collections import defaultdict
 import unicodedata
+
+from collections import defaultdict
+from rapidfuzz import fuzz
+from fastapi import FastAPI
+from pydantic import BaseModel
+from openai import OpenAI
+from fastapi.middleware.cors import CORSMiddleware
+
+
+# # # FUNCTIONS
 
 
 # helper function to remove accents from characters
@@ -101,6 +111,9 @@ def find_product_group(search):
     return None
 
 
+# # # MAIN CODE
+
+
 # url to fetch the data from
 url = "https://warply.s3.amazonaws.com/applications/ed840ad545884deeb6c6b699176797ed/basket-retailers/prices.json?cid=1773057600000"
 headers = {"User-Agent": "Mozilla/5.0"}
@@ -124,7 +137,6 @@ allSuppliers = result["suppliers"]
 
 # all_products contains all products and details
 allProducts = result["products"]
-print(allProducts[0])
 
 
 # creating a smaller dataset with 150 products and 50 suppliers
@@ -149,13 +161,6 @@ for p in products:
             "price": price["price"],
             "category": p["category"]
         })
-
-# saving the new temporary dataset
-with open("dataset_clean.json", "w") as f:
-    json.dump(dataset, f, indent=2)
-
-# checking the length of the dataset to see how many entries we have
-print("Dataset created:", len(dataset), "entries")
 
 
 productsClean = defaultdict(list)
@@ -210,7 +215,7 @@ groupedProducts = defaultdict(list)
 for item in databaseClean:
     groupedProducts[item["group_id"]].append(item)
 
-print(groupedProducts[0])
+print(groupedProducts[0], groupedProducts[1])
 
 # renaming each group with the name of the first product in that group
 groupName = {}
@@ -218,6 +223,113 @@ groupName = {}
 for i, group in enumerate(groups):
     groupName[i] = group[0]
 
-# creating a new dataset with the group id for each product
-with open("products_grouped_final.json", "w") as f:
+# creating a new dataset with a group id for each product group
+with open("products_grouped_example.json", "w") as f:
     json.dump(groupedProducts, f, indent=2)
+
+
+search = input()
+products = [p.strip() for p in search.split(",")]
+
+# calculating cheapest total price from all supermarkets
+total = 0
+cart = []
+
+# calculating total prices for each supermarket
+# to find the cheapest supermarket cart (if it exists)
+supermarketTotals = {}
+supermarketAppearances = {}
+usefulSupermarkets = {}
+
+for search in products:
+    searchedProduct = find_product_group(search)
+
+    if searchedProduct is None:
+        print(search, "not found")
+        continue
+    
+    product = groupedProducts[searchedProduct]
+    allPrices = []
+
+    i = 0
+    for p in product:
+        for price in p["prices"]:
+            # this is about calculating cheapest total price from all supermarkets
+            allPrices.append({
+                "product": p["product"],
+                "supermarket": price["supermarket"],
+                "price": price["price"]
+            })
+
+            # this is about calculating total prices for each supermarket
+            # to find the cheapest supermarket cart (if it exists)
+            supermarket = price["supermarket"]
+
+            if supermarket not in supermarketTotals:
+                supermarketTotals[supermarket] = 0
+                supermarketAppearances[supermarket] = 0
+
+            supermarketTotals[supermarket] += price["price"]
+            supermarketAppearances[supermarket] += 1
+    
+    i += 1
+    
+    cheapest = min(allPrices, key=lambda x: x["price"])
+    cart.append(cheapest)
+    total += cheapest["price"]
+
+# this is about calculating cheapest total price from all supermarkets
+print("\nCheapest prices from all supermarkets:")
+
+for item in cart:
+    print(
+        item["product"],
+        "in supermarket", item["supermarket"],
+        "costs", item["price"], "€"
+    )
+
+print("\nTotal cost:", round(total,2), "€")
+
+# this is about calculating total prices for each supermarket
+# to find the cheapest supermarket cart (if it exists)
+for supermarket in supermarketTotals:
+    if supermarketAppearances.get(supermarket, 0) == len(products):
+        usefulSupermarkets[supermarket] = supermarketTotals[supermarket]
+
+if usefulSupermarkets:
+    cheapestSupermarket = min(usefulSupermarkets, key=usefulSupermarkets.get)
+    print("\n\nCheapest supermarket:", cheapestSupermarket)
+    print("Total cost of cart from there is:",
+          round(usefulSupermarkets[cheapestSupermarket], 2), "€")
+
+
+# # # AI USAGE (FastAPI)
+# μη ολοκληρωμενο #
+
+
+app = FastAPI()
+
+#  requests από frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+client = OpenAI(api_key="")
+
+class Question(BaseModel):
+    question: str
+
+@app.post("/ask")
+def ask_ai(q: Question):
+
+    response = client.responses.create(
+        model="gpt-5.1",
+        input=q.question
+    )
+
+    answer = response.output[0].content[0].text
+
+    return {"answer": answer}
